@@ -44,7 +44,7 @@ function MainCarousel() {
       quotation:
         "A manager orchestrates the symphony of learning, ensuring each note of progress resonates through the corridors of Sankat Mochan Group of Institutions. Guiding with wisdom, our manager transforms challenges into opportunities for growth.",
       imageUrl: Manager,
-      name: "Mr. Ravi Pratap Singh",
+      name: "Mr. Rahul Kumar Maurya",
       role: "Manager Of Sankat Mochan Group Of Institutions",
     },
     {
@@ -52,7 +52,7 @@ function MainCarousel() {
       quotation:
         "As the captain of our academic ship, the principal steers Sankat Mochan Group of Institutions towards the shores of excellence. With dedication as their compass, they navigate the seas of education, shaping bright minds and promising futures.",
       imageUrl: SeniorPrincipal,
-      name: "Mrs. Sunita Singh",
+      name: "Mr. Jay Prakash Verma",
       role: "Principal Of Sankat Mochan Group Of Institutions",
     },
     {
@@ -60,7 +60,7 @@ function MainCarousel() {
       quotation:
         "In the educational journey, the principal stands as the steadfast companion, supporting the founder's vision and fostering an environment where students at Sankat Mochan Group of Institutions can thrive. Together, they chart a course towards educational success.",
       imageUrl: JuniorPrincipal,
-      name: "Mr. Rajesh Singh",
+      name: "Mrs. Jyoti Singh",
       role: "Principal Of Sankat Mochan Group Of Institutions",
     },
   ];
